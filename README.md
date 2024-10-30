@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FiftyFive74
+- 👋 Hi, I’m Simon Son
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on ...
